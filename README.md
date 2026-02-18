@@ -1,4 +1,4 @@
-# NumPy-Projects
+# Projects
 Using underlying linear algebraic mathematics, these projects are coded in Python using the NumPy library and MATLAB to demonstrate understanding and ability
 The comments in the code are there to guide mathematical foundations of logic behind our interpretations, while also serving as a method to convey interpretations of outputed variables and code. As is likely visible, I refrained from using lines of code that streamlined the mathematics behind ideas like Least square regression, orthnormalisation, and SVD. This is not due to my unfamilarity with those commands, rather my wish to build the code with the underlying maths given my interests, as well as highlighting my familarity with these models and their foundations.
 
